@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.exe
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.deps.json
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.runtimeconfig.json
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.dll
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.pdb
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.AssemblyInfo.cs
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.dll
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.pdb
+C:\Users\Binju\source\repos\ProjectAssignment\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.genruntimeconfig.cache
