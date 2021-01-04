@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.exe
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.deps.json
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.runtimeconfig.json
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.dll
+C:\Users\Binju\source\repos\NumberProject\NumberProject\bin\Debug\netcoreapp3.1\NumberProject.pdb
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.dll
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.pdb
+C:\Users\Binju\source\repos\NumberProject\NumberProject\obj\Debug\netcoreapp3.1\NumberProject.genruntimeconfig.cache
