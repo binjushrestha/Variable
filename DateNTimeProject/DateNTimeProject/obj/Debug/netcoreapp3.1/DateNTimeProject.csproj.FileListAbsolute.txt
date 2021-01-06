@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.exe
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.deps.json
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.runtimeconfig.json
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.dll
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\bin\Debug\netcoreapp3.1\DateNTimeProject.pdb
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.dll
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.pdb
+C:\Users\Binju\source\repos\DateNTimeProject\DateNTimeProject\obj\Debug\netcoreapp3.1\DateNTimeProject.genruntimeconfig.cache
