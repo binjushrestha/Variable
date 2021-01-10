@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.exe
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.deps.json
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.runtimeconfig.json
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.dll
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\bin\Debug\netcoreapp3.1\TernaryProject.pdb
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.dll
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.pdb
+C:\Users\Binju\source\repos\TernaryProject\TernaryProject\obj\Debug\netcoreapp3.1\TernaryProject.genruntimeconfig.cache
