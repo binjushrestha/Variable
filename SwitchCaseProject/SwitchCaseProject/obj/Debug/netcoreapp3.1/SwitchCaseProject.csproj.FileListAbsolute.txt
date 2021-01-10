@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.exe
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.deps.json
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.runtimeconfig.json
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.dll
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\bin\Debug\netcoreapp3.1\SwitchCaseProject.pdb
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.dll
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.pdb
+C:\Users\Binju\source\repos\SwitchCaseProject\SwitchCaseProject\obj\Debug\netcoreapp3.1\SwitchCaseProject.genruntimeconfig.cache
