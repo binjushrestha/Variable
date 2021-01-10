@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.exe
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.deps.json
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.runtimeconfig.json
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.dll
+C:\Users\Binju\source\repos\BoolProject\BoolProject\bin\Debug\netcoreapp3.1\BoolProject.pdb
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.dll
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.pdb
+C:\Users\Binju\source\repos\BoolProject\BoolProject\obj\Debug\netcoreapp3.1\BoolProject.genruntimeconfig.cache
