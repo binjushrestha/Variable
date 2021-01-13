@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.exe
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.deps.json
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.runtimeconfig.json
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.dll
+C:\Users\Binju\source\repos\LoopProject\LoopProject\bin\Debug\netcoreapp3.1\LoopProject.pdb
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.dll
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.pdb
+C:\Users\Binju\source\repos\LoopProject\LoopProject\obj\Debug\netcoreapp3.1\LoopProject.genruntimeconfig.cache
