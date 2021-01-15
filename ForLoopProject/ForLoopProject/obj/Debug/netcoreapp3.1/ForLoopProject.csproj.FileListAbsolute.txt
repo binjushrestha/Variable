@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.exe
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.deps.json
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.runtimeconfig.json
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.dll
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\bin\Debug\netcoreapp3.1\ForLoopProject.pdb
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.dll
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.pdb
+C:\Users\Binju\source\repos\ForLoopProject\ForLoopProject\obj\Debug\netcoreapp3.1\ForLoopProject.genruntimeconfig.cache
