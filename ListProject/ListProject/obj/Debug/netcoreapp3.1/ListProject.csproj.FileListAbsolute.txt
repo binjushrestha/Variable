@@ -1,0 +1,13 @@
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.csprojAssemblyReference.cache
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.AssemblyInfoInputs.cache
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.AssemblyInfo.cs
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.csproj.CoreCompileInputs.cache
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.exe
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.deps.json
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.runtimeconfig.json
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.runtimeconfig.dev.json
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.dll
+C:\Users\Binju\source\repos\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.pdb
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.dll
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.pdb
+C:\Users\Binju\source\repos\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.genruntimeconfig.cache
